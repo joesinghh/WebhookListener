@@ -15,3 +15,5 @@ User should have `python` installed on their system.
 
 - Type `python manage.py runserver` to start the server with default port `8000`, to run server with custom post type `python manage.py runserver <port_number> `.
 - Example : `python manage.py runserver 80`
+
+Note : `/webhook/call/` is the endpoint for listening and `/admin` is for admin panel. 
