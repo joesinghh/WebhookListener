@@ -18,6 +18,6 @@ User should have `python` installed on their system.
 
 ### Create Super User
 
-create a super user who can access admin panel by using command : `python manage.py createsuperuser`
+create a super user who can access admin panel by using the command : `python manage.py createsuperuser`
 
 Note : `/webhook/call/` is the endpoint for listening and `/admin` is for admin panel. 
